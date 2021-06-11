@@ -157,7 +157,9 @@ button:hover {
     height: 60%;
     margin-left: -20%;
   }
-  
+  .title-container hr {
+    width: 100%;
+  }
   nav {
     width: 50%;
     
@@ -175,8 +177,13 @@ button:hover {
     
   }
   .title-container {
-    width:104%;
+    width:105%;
     margin-left: -2%;
     
   }
+  div .artists-container {
+      width: 100%;
+
+  }
+  
 }
