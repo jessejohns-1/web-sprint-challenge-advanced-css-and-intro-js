@@ -283,11 +283,16 @@ Use addArtist to do the following:
 Example: addArtist(artists) should return the artists array with the above object added to the end of the array. */
 
 function addArtist(arr){
-    /*Your Code Here*/
+  artists.push({id: 20,
+    name: "Jesse", 
+    years: 1994 - 2021,
+    genre: "WebDesign", 
+    nationality: "American",
+    bio: "loremipsm"})
+    return arr
   }
 
   
-
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 7: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 Use lotsOfArt to do the following: 
 1. Receive an array 

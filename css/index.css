@@ -174,7 +174,9 @@ button:hover {
     border-left: 2px solid #626262;
     
   }
-  .title-container hr {
-    width: 100%;
+  .title-container {
+    width:104%;
+    margin-left: -2%;
+    
   }
 }
